@@ -1,6 +1,6 @@
 {
-  "name": "wings",
-  "short_name": "wings",
+  "name": "NeoWings",
+  "short_name": "NeoWings",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
